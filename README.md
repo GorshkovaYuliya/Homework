@@ -1,3 +1,3 @@
 Owner: Yuliya Harshkova
-Aim: Puthon course development
+Aim: Python course development
 ***
